@@ -1,2 +1,2 @@
 # testsPython
-Tests de base avec python
+Tests de base avec python / my noobie tests
